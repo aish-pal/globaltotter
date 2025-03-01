@@ -1,0 +1,7 @@
+/* Sleek background with gradient */
+body {
+  background: linear-gradient(135deg, #ff5f6d, #ffc3a0);
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+}
+
